@@ -1,26 +1,10 @@
-
-<!--
-**shivamworld0608/shivamworld0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1>
 <h3 align="center">Student.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in CSE(2022-2026) from NIT Jalandhar
 - 🔭 <samp>Schooled from PCM from Central Hindu Boys School,Varanasi, CBSE Board - 94%
-- 💬 <samp>Ask me about Html/CSS/React/NodeJs/Mongodb
+- 💬 <samp>Ask me about Html/CSS/React/React Native/TailwindCSS/NodeJs/Mongodb
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I think I am funny, with a tint of zeal and determination.
 - 📫 <samp>How to reach me ashishivam2003@gmail.com
