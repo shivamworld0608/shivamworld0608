@@ -1,6 +1,5 @@
 <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1>
 <h3 align="center">Full Stack Developer in MERN 😊</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in CSE(2022-2026) from NIT Jalandhar
 - 🔭 <samp>Schooled from PCM from Central Hindu Boys School,Varanasi, CBSE Board - 94%
