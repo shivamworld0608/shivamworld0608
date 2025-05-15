@@ -46,6 +46,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivamworld0608&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
