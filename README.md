@@ -19,6 +19,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shivamworld0608)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shivamworld0608&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
