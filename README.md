@@ -11,9 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 
 <!-- Cool Terminal Header -->
-<div align="center">
-  <img src="https://i.imgur.com/r0A5uI8.gif" width="100%" alt="Terminal Header"/>
-</div>
+
 <!-- ASCII Art Header -->
 <div align="center">
  ____  _     _                           ____                 _            
