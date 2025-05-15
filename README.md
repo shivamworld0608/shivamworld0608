@@ -1,8 +1,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-
-<h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Shivam+Pandey;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
+<!-- Banner Image -->
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+</div>
+<!-- Hand Wave GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  <h1>Hi there, I'm Shivam Pandey</h1>
+</div>
+<!-- Developer GIF + About Me -->
+<img align="right" height="270px" alt="GIF"
+<!-- <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 <h3 align="center">Full Stack Developer in MERN 😊</h3>
 
