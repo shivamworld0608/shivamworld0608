@@ -24,9 +24,19 @@
 
 <h1><b><samp>📊 GitHub Stats</samp></b></h1>
 
-![](https://github-readme-stats.vercel.app/api?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivamworld0608&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px; flex: 1;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; flex: 1;" />
+</div>
+
+<br/>
+
+<div style="max-width: 1000px; margin: auto;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivamworld0608&theme=dark&hide_border=false" style="width: 100%;" />
+</div>
+
+
+
 
 
 <h1><b><samp>🛠️ Skills and Languages</samp></b></h1>
