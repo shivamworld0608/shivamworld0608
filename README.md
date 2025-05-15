@@ -11,11 +11,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 </div>
-<!-- Hand Wave GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-  <h1>Hi there, I'm Shivam Pandey</h1>
-</div>
 <!-- Developer GIF + About Me -->
 <img align="right" height="270px" alt="GIF"
 <!-- <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1> -->
