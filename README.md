@@ -10,37 +10,12 @@
 <!-- Developer GIF + About Me -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 
-<!-- Cool Terminal Header -->
-
-<!-- ASCII Art Header -->
-<div align="center">
- ____  _     _                           ____                 _            
-/ ___|| |__ (_)_   ____ _ _ __ ___      |  _ \ __ _ _ __   __| | ___ _   _ 
-\___ \| '_ \| \ \ / / _` | '_ ` _ \ ____| |_) / _` | '_ \ / _` |/ _ \ | | |
- ___) | | | | |\ V / (_| | | | | | |____|  __/ (_| | | | | (_| |  __/ |_| |
-|____/|_| |_|_| \_/ \__,_|_| |_| |_|    |_|   \__,_|_| |_|\__,_|\___|\__, |
-                                                                     |___/ 
-> Full Stack Developer | Problem Solver | Code Enthusiast
-</div>
 <!-- Animated Coding GIF + Typing SVG -->
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=console.log(%22Hello+World!%22);System.out.println(%22Passionate+Coder%22);print(%22Building+Amazing+Software%22);return+true;" alt="Typing SVG" />
 </p>
-<!-- Profile Views + Social Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</div>
 <!-- Developer GIF + About Me -->
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h3 align="center">Full Stack Developer in MERN 😊</h3>
