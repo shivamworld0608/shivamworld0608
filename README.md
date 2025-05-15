@@ -1,13 +1,6 @@
 <p align="center">
-  <a href="https://github.com/shivamworld0608">
-    <img src="https://github.com/shivamworld0608/shivamworld0608/blob/main/images/shivam-hello-coders.gif?raw=true" alt="Hello Coders" width="60%"/>
-  </a>
-  <br>
-  <a href="https://github.com/shivamworld0608">
-    <img src="https://github.com/shivamworld0608/shivamworld0608/blob/main/images/shivam-dev-working.gif?raw=true" alt="Workspace" width="40%"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
 
 <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
@@ -49,4 +42,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <hr>  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
