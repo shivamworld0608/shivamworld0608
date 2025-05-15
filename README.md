@@ -56,9 +56,10 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=console.log(%22Hello+World!%22);System.out.println(%22Passionate+Coder%22);print(%22Building+Amazing+Software%22);return+true;" alt="Typing SVG" />
 </p>
-<!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" style="margin:0; padding:0; display:block;"/>
+<!-- Quote and Footer -->
+<div style="margin:0; padding:0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" style="display:block; margin:0; padding:0;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" style="display:block; margin:0; padding:0;" />
+</div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" style="margin:0; padding:0; display:block;"/>
 
