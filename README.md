@@ -7,14 +7,9 @@
 </div>
 <!-- Banner Image -->
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- Developer GIF + About Me -->
+<!-- Views-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 
-<!-- Animated Coding GIF + Typing SVG -->
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=console.log(%22Hello+World!%22);System.out.println(%22Passionate+Coder%22);print(%22Building+Amazing+Software%22);return+true;" alt="Typing SVG" />
-</p>
 <!-- Developer GIF + About Me -->
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -56,8 +51,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=shivamworld0608&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
+<!-- Animated Coding GIF + Typing SVG -->
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=console.log(%22Hello+World!%22);System.out.println(%22Passionate+Coder%22);print(%22Building+Amazing+Software%22);return+true;" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
