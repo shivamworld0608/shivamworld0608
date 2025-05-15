@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shivamworld0608)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShivamPand29244)
 
-
+<br/>
 
 <h1><b><samp>📊 GitHub Stats</samp></b></h1>
 
@@ -36,7 +36,7 @@
 </div>
 
 
-
+<br/>
 
 
 <h1><b><samp>🛠️ Skills and Languages</samp></b></h1>
@@ -57,6 +57,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+<br/>
 
 <h1><b><samp>💻 Tools and Platform</samp></b></h1>
 
@@ -65,11 +66,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+<br/>
 <h1><b><samp>🏆 GitHub Trophies</samp></b></h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=shivamworld0608&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<br/>
 <!-- Animated Coding GIF + Typing SVG -->
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
