@@ -1,5 +1,12 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/shivamworld0608" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/shivamworld0608" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+  <a href="https://github.com/shivamworld0608">
+    <img src="https://github.com/shivamworld0608/shivamworld0608/blob/main/images/shivam-hello-coders.gif?raw=true" alt="Hello Coders" width="60%"/>
+  </a>
+  <br>
+  <a href="https://github.com/shivamworld0608">
+    <img src="https://github.com/shivamworld0608/shivamworld0608/blob/main/images/shivam-dev-working.gif?raw=true" alt="Workspace" width="40%"/>
+  </a>
+</p>
 
 
 <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1>
