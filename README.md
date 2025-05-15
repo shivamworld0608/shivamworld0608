@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
+<div align="left">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20Views&color=2ea44f&style=for-the-badge&logo=github" alt="shivamworld0608" />
+  </a>
+</div>
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=435&lines=I'm+Shivam+Pandey;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -79,8 +83,8 @@
 </p>
 <!-- Quote and Footer (Seamless Touch Fix) -->
 <div style="margin: 0; padding: 0; position: relative;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" style="display:block; margin:0; padding:0;" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" style="display:block; margin-top:-35px; padding:0;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" style="display:block; margin-bottom:-60; padding:0;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" style="display:block; margin-top:-60px; padding:0;" />
 </div>
 
 
