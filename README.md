@@ -13,7 +13,7 @@
 <!-- Developer GIF + About Me -->
 
 
-<h3><b><samp>Connect with Me</samp></b></h3>
+<h1><b><samp> 🌐 Connect with Me  🌐</samp></b></h1>
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -22,13 +22,14 @@
 
 
 
-# 📊 GitHub Stats:
+<h1><b><samp>📊 GitHub Stats</samp></b></h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivamworld0608&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamworld0608&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<h3><b><samp>Skills and Languages</samp></b></h3>
+<h1><b><samp>🛠️ Skills and Languages</samp></b></h1>
 
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,11 +48,13 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-<h3><b><samp>Tools and Platform</samp></b></h3>
+<h1><b><samp>💻 Tools and Platform</samp></b></h1>
 
 ![Git](https://img.shields.io/badge/Git-999999?style=for-the-badge&logo=Git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 ## 🏆 GitHub Trophies
