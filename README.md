@@ -3,7 +3,7 @@
 </p>
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Shivam+Pandey;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=435&lines=I'm+Shivam+Pandey;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 <!-- Banner Image -->
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
