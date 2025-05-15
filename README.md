@@ -56,8 +56,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+<h1><b><samp>🏆 GitHub Trophies</samp></b></h1>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivamworld0608&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Animated Coding GIF + Typing SVG -->
