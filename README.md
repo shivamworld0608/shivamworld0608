@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 </div>
 <!-- Developer GIF + About Me -->
-<img align="right" height="270px" alt="GIF"
-<!-- <h1 align="center">Hey Everyone! 👋, I'm Shivam Pandey</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 <h3 align="center">Full Stack Developer in MERN 😊</h3>
 
