@@ -18,14 +18,6 @@
 </p>
 <!-- Developer GIF + About Me -->
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<h3 align="center">Full Stack Developer in MERN 😊</h3>
-
-- 👷 <samp>Currently pursuing B.Tech in CSE(2022-2026) from NIT Jalandhar
-- 🔭 <samp>Schooled from PCM from Central Hindu Boys School,Varanasi, CBSE Board - 94%
-- 💬 <samp>Ask me about Html/CSS/React/React Native/TailwindCSS/NodeJs/Mongodb/WebRTC/Socket.io/JWT Authentication/ Session Based Authentication
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I think I am funny, with a tint of zeal and determination.
-- 📫 <samp>How to reach me ashishivam2003@gmail.com
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
