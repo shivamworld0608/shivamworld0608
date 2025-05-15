@@ -57,12 +57,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=console.log(%22Hello+World!%22);System.out.println(%22Passionate+Coder%22);print(%22Building+Amazing+Software%22);return+true;" alt="Typing SVG" />
 </p>
 
-<!-- Animated Coding GIF + Typing SVG -->
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=console.log(%22Hello+World!%22);System.out.println(%22Passionate+Coder%22);print(%22Building+Amazing+Software%22);return+true;" alt="Typing SVG" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
