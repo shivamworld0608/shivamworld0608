@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=435&lines=I'm+Shivam+Pandey;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -8,11 +9,10 @@
 <!-- Banner Image -->
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Views-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamworld0608&label=Profile%20views&color=0e75b6&style=flat" alt="shivamworld0608" /> </p>
 
 <!-- Developer GIF + About Me -->
 
-
+<br/>
 <h1><b><samp> 🌐 Connect with Me  🌐</samp></b></h1>
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
