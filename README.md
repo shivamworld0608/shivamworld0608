@@ -12,9 +12,7 @@
 </div>
 <!-- Banner Image -->
 <img width="100%" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- Views-->
 
-<!-- Developer GIF + About Me -->
 
 <br/>
 <h1><b><samp> 🌐 Connect with Me  🌐</samp></b></h1>
